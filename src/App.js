@@ -1,3 +1,8 @@
+/**
+* @name App
+* @author IDea Factory - Apr. 2020
+* @version 1.0.0
+**/
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
